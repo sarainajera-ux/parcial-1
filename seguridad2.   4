@@ -1,0 +1,13 @@
+//SARAI RODRIGUEZ NAJERA
+//00616609
+//ING.EN TECNOLOGIAS DE LA INFO
+Algoritmo seguridad2
+	secreto<-123456;
+	escribir "ingrese contraseña";
+	leer dontraseña
+	Si contraseña=secreto Entonces
+		escribir"acceso permitido";
+	SiNo
+		escribir "acceso denegado";
+	Fin Si
+FinAlgoritmo

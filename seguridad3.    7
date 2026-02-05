@@ -1,0 +1,13 @@
+//SARAI RODRIGUEZ NAJERA
+//00616609
+//ING.EN TECNOLOGIAS DE LA INFO
+Algoritmo seguridad3
+	secreto<-123456;
+	escribir"ingrese codigo";
+	leer codigo;
+	mientras codigo<>secreto Hacer
+		escribir"codigo incorrecto.vuelva a intentar";
+		leer codigo;
+	FinMientras
+	escribir"acceso permitido";
+FinAlgoritmo

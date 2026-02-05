@@ -1,0 +1,24 @@
+//SARAI RODRIGUEZ NAJERA
+//00616609
+//ING.EN TECNOLOGIAS DE LA INFO
+Algoritmo examen
+	escribir"¿que color se genera mezclando azul y amarillo?";
+	escribir"1-rojo";
+	escribir"2-violeta";
+	escribir"3-verde";
+	escribir"4-negro";
+	
+	leer color;
+	Segun color Hacer
+	1:
+		escribir"respuesta incorrecta";
+		2:
+			escribir"respuesta incorrecta";
+		3:
+			escribir"correcto";
+		4:
+			escribir"respuesta incorrecta";
+		De Otro Modo:
+			escribir"opcion incorrecta";
+    Fin Segun
+FinAlgoritmo
